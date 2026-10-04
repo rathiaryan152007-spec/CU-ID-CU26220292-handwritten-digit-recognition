@@ -12,6 +12,7 @@ This is a beginner-level Deep Learning project that classifies handwritten digit
 ## 👤 Author Information
 - **Name:** Aryan Rathi
 - **Branch:** B.Tech CSE (AI & ML)
+- **CU ID:** CU26220292
 - **University:** COER University
 
 ## 🚀 Getting Started
